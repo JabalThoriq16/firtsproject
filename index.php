@@ -8,5 +8,7 @@
 </head>
 <body>
     <h1>Hellow world</h1>
+    <p>selama pagi dunia tipu-tipu</p>
+    <p>semoga harimu menyenangkan</p>
 </body>
 </html>
